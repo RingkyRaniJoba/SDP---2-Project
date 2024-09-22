@@ -1,1 +1,1 @@
-# SDP---2-Project
+Project Name : Hospital Management System
